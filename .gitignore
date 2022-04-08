@@ -1,0 +1,3 @@
+server.cfg
+maps/*
+!maps/ph_office.bsp
